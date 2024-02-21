@@ -1,11 +1,11 @@
 en:
   application:
-    name: Untitled Application
+    name: Bullet Train Parent Child Teams Demo
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: bullet train parent child teams demo seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: bullet_train_parent_child_teams_demo
   webhooks/outgoing/endpoints:
     fields:
       api_version:
